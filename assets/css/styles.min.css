@@ -1,0 +1,7 @@
+span {
+    --bs-link-color: #212529;
+    --bs-link-color-rgb: 33, 37, 41;
+    --bs-link-decoration: underline;
+    --bs-link-hover-color: #dc3545;
+    --bs-link-hover-color-rgb: 220, 53, 69
+}
